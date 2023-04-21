@@ -1,8 +1,8 @@
 {
-  "name": "trek-captcha",
-  "version": "0.4.0",
-  "description": "A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No canvas.",
-  "repository": "trekjs/captcha",
+  "name": "fibjs-captcha",
+  "version": "0.5.0",
+  "description": "A Lightweight Pure JavaScript Captcha for Fibjs. No C/C++, No ImageMagick, No canvas.",
+  "repository": "dotcoo/fibjs-captcha",
   "author": {
     "name": "Fangdun Cai",
     "email": "cfddream@gmail.com",
