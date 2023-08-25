@@ -1,6 +1,6 @@
 {
   "name": "fibjs-captcha",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A Lightweight Pure JavaScript Captcha for Fibjs. No C/C++, No ImageMagick, No canvas.",
   "repository": "dotcoo/fibjs-captcha",
   "author": {
@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "keywords": [
+    "fibjs",
     "trek",
     "trek-engine",
     "captcha"
